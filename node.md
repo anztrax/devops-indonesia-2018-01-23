@@ -77,3 +77,5 @@ Domparison between ansible, cloudformaation , terraform :
 
 10. terraform klo workflow yg complex agak susah, klo workflow yg complex bisa pake kubernetes.
 
+11. https://blog.agilebits.com/2018/01/25/terraforming-1password/
+
